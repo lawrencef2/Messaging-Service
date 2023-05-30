@@ -1,5 +1,5 @@
 {
-  "name": "message-service",
+  "name": "client-message-service",
   "version": "0.1.0",
   "private": true,
   "scripts": {
